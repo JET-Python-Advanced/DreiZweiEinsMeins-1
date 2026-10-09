@@ -1,7 +1,7 @@
 Ein Projekt das wir Woche für Woche erweitern auch die Read.md wird sich erweitern
 
 
-# Heading 1
+# Read.md Syntax Guide
 ## Heading 2
 ### Heading 3
 
