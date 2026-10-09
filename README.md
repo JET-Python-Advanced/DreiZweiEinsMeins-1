@@ -1,7 +1,7 @@
-Ein Projekt das wir Woche für Woche erweitern auch die Read.md wird sich erweitern
+Ein Projekt das wir Woche für Woche erweitern auch die Readme.md wird sich erweitern
 
 
-# Read.md Syntax Guide
+# Readme.md Syntax Guide
 ## Heading 2
 ### Heading 3
 
