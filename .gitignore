@@ -1,0 +1,86 @@
+# ---------------------------------------------------------
+# macOS
+# ---------------------------------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.DocumentRevisions-V100
+.TemporaryItems
+Icon?
+
+# ---------------------------------------------------------
+# PyCharm / JetBrains
+# ---------------------------------------------------------
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+cmake-build-*/
+
+# ---------------------------------------------------------
+# Python
+# ---------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtuelle Umgebungen
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+!.env.example
+
+# Packaging / Build
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+wheels/
+pip-wheel-metadata/
+.installed.cfg
+
+# Tests / Coverage
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+.hypothesis/
+
+# Type checker / Linter Caches
+.mypy_cache/
+.ruff_cache/
+.pytype/
+.dmypy.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ---------------------------------------------------------
+# Logs & Temp
+# ---------------------------------------------------------
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ---------------------------------------------------------
+# Projekt-spezifisch (nach Bedarf anpassen)
+# ---------------------------------------------------------
+# data/
+# secrets.json
+# *.sqlite3
+
+secret.csv
